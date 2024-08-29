@@ -1,6 +1,10 @@
 #Не храним папку Bitrix в GIT
 /bitrix/*
 
+
+
+
+
 #Хранить Upload тоже нет смысла
 /upload/
 
